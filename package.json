@@ -1,0 +1,26 @@
+{
+  "name": "blademiner",
+  "private": true,
+  "version": "0.0.0",
+  "description": "An easy to set up graphical crypto miner",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blademiner/blademiner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blademiner/blademiner/issues"
+  },
+  "homepage": "https://github.com/blademiner/blademiner#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  },
+  "devDependencies": {
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "vue-loader": "^13.5.0",
+    "webpack": "^3.10.0"
+  }
+}
